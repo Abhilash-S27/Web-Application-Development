@@ -1,0 +1,5 @@
+html,body{height:100%;margin:0}
+body{display:flex;flex-direction:column;font-family:Arial;background:#f8f9fa}
+main{flex:1}
+header{background:linear-gradient(to right,#212529,#000)}
+.card{border-radius:10px}
